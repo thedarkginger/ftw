@@ -1,0 +1,29 @@
+<div class="container">
+
+<h1>Welcome#index</h1>
+<p>Make this better.</p>
+
+
+      <% @articles.each do |article| %>
+
+  <div class="article_header">
+    <h1><%= article.title %></h1>
+ <div class="article_content">    
+        <p><%= markdown article.content %></p>
+   </div>
+    <button class="clickme" type="button">Show More!</button>
+      <% end %>
+</div>
+
+<script>
+
+$( ".article_content" ).hide()
+
+$(".clickme").click(function() {
+  $(this).prev(".article_content").slideToggle("300", function() {});
+});
+
+</script>
+
+
+     
