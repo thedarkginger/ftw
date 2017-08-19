@@ -156,11 +156,23 @@ nav p:hover {
     padding: 0px;
 }
 
+@media only screen and (max-width: 600px) {
+    .container {
+		width: 90%;
+		margin: 0 auto;
+		margin-top: 20px;
+	}
+}
 
+@media only screen and (min-width: 601px) {
 
 .container {
-	width: 70%;
+	width: 60%;
 	margin: 0 auto;
 	margin-top: 20px;
 }
+
+}
+
+
 
