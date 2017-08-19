@@ -64,12 +64,32 @@ img {
 }
 
 
-.clickme {
-	margin-top: 20px;
-	padding: 10px;
-	width: 180px;
-}
 
+  .clickme {
+    display: block;
+    margin-top: 25px !important;
+    margin: 0 auto 2em auto;
+    text-align: center;
+    font-family: $SourceSansPro;
+    margin: 0;
+    font-weight: 600;
+    display: inline-block;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    font-size: 1.25rem;
+    padding:5px 10px;
+    color: #4d4d4d;
+    width:100%;
+    text-align:center;
+    opacity: .8;
+      }
+
+   .clickme:hover {
+   	opacity: 1.0;
+   }
+   
+
+ 
 
 /* END POST FORMAT */ 
 
