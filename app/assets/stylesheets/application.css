@@ -89,6 +89,9 @@ h1 {
       font-family: 'Oswald';
       font-size: 20px;
       text-transform: uppercase;
+   	display: table;
+   	margin: 0 auto;
+   	background-color: #BBDEFB !important;
     }
 
 .article_header p {
@@ -113,6 +116,20 @@ h1 {
 	margin-bottom: 3px;
 	text-decoration: none;
 	color: white;
+}
+
+.separator {
+	margin-top: 30px;
+	width: 100%;
+	height: 20px;
+	color: white;
+  background: repeating-linear-gradient(
+    45deg,
+    #006648,
+    #006648 10px,
+    #004C2E 10px,
+    #004C2E 20px
+  );
 }
 
 
