@@ -4,8 +4,12 @@
 <% @articles.each do |article| %>
 
   <div class="article_header">
+   <p><%= article.published_at.strftime("%^B %d, %Y") %></p>
     <h1><%= article.title %></h1>
     <h2><%= article.sub_title %></h2>
+    <div id="author">
+    <p>By JP Gooderham</p>
+    </div>
 
    </div>
  <div class="article_content">    

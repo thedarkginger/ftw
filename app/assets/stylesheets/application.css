@@ -44,6 +44,10 @@ h1 {
 	color: #1B5E20;
 }
 
+.article_content br {
+	margin-bottom: 20px; 
+}
+
 .article_header h2, .article_content h2 {
 	margin-top: 10px;
 	font-family: 'Oswald';
@@ -57,6 +61,29 @@ h1 {
 .article_header {
 	margin-top: 20px;
 }
+
+#author {
+	width: 100%;
+	margin-top: 15px !important;
+}
+
+#author p {
+      font-family: 'Oswald';
+      font-size: 20px;
+      text-transform: uppercase;
+    }
+
+.article_header p {
+	text-align: center;
+	font-family: 'Oswald';
+	font-size: 22px;
+	letter-spacing: 1px;
+	background-color: #19B5FE;
+	padding: 10px;
+	display: inline-block;
+	margin-bottom: 3px;
+}
+
 
 img {
 	max-width:100%;
