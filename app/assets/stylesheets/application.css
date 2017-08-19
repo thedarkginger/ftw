@@ -44,7 +44,7 @@ h1 {
 	color: #1B5E20;
 }
 
-.article_header h2 {
+.article_header h2, .article_content h2 {
 	margin-top: 10px;
 	font-family: 'Oswald';
 	font-weight: 600;
