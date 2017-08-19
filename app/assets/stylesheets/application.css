@@ -66,8 +66,8 @@ img {
 
 
   .clickme {
-    display: block;
     margin-top: 25px !important;
+    margin-left: 10% !important;
     margin: 0 auto 2em auto;
     text-align: center;
     margin: 0;
@@ -78,7 +78,7 @@ img {
     font-size: 1.25rem;
     padding:5px 10px;
     color: #4d4d4d;
-    width:100%;
+    width:80%;
     text-align:center;
     opacity: .8;
       }
