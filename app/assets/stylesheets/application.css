@@ -184,7 +184,7 @@ nav p:hover {
     padding: 0px;
 }
 
-@media only screen and (max-width: 737px) {
+@media only screen and (max-width: 800px) {
     .container {
 		width: 90%;
 		margin: 0 auto;
@@ -192,7 +192,7 @@ nav p:hover {
 	}
 }
 
-@media only screen and (min-width: 738px) {
+@media only screen and (min-width: 801px) {
 
 .container {
 	width: 60%;
