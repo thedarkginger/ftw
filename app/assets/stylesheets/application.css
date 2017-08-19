@@ -29,6 +29,8 @@ h1 {
 	line-height: 62px;
 }
 
+
+
 .article_content p {
 	margin-top: 20px;
 	font-family: 'Work Sans';
@@ -40,6 +42,16 @@ h1 {
 	margin-top: 5px;
 	font-size: 42px !important;
 	color: #1B5E20;
+}
+
+.article_header h2 {
+	margin-top: 10px;
+	font-family: 'Oswald';
+	font-weight: 600;
+	font-size: 32px;
+	letter-spacing: 1px;
+	line-height: 42px;
+	color: #9E9E9E;
 }
 
 .article_header {
@@ -54,7 +66,6 @@ img {
 
 .clickme {
 	margin-top: 20px;
-	border: 3px black;
 	padding: 10px;
 	width: 180px;
 }

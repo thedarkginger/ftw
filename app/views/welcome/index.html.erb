@@ -1,23 +1,22 @@
 <div class="container">
 
-<h1>Welcome # index</h1>
-<p>Make this better.</p>
-
 
 <% @articles.each do |article| %>
 
   <div class="article_header">
     <h1><%= article.title %></h1>
     <h2><%= article.sub_title %></h2>
-    <%= display_article_authors(article) %>
+
    </div>
  <div class="article_content">    
         <p><%= markdown article.content %></p>
    </div>
-    <button class="clickme" type="button">Show More!</button>
+    <button class="clickme" type="button">Show Story</button>
 
       <% end %>
 </div>
+
+<br>
 
 <script>
 
