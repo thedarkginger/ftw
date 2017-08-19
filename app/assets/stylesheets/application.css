@@ -102,6 +102,19 @@ h1 {
 	margin-bottom: 3px;
 }
 
+.article_content a {
+	text-align: center;
+	font-family: 'Oswald';
+	font-size: 16px;
+	letter-spacing: 1px;
+	background-color: #19B5FE;
+	padding: 10px;
+	display: inline-block;
+	margin-bottom: 3px;
+	text-decoration: none;
+	color: white;
+}
+
 
 img {
 	max-width:100%;
