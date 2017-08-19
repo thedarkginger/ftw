@@ -107,13 +107,13 @@ img {
 
 
 
-nav p:hover {
+nav a:hover {
 	color: #01579B;
 	border-color: #01579B;
 	box-shadow: .5px .5px 1px #01579B;
 }
 
-nav p {
+nav a {
 	padding: 5px;
 	color: white; 
 	font-family: 'Londrina Solid', cursive;
@@ -132,6 +132,7 @@ nav p {
 	display: inline-block;
 	margin-top: 20px;
 	margin-left: 20px;
+	text-decoration: none;
 	}
 
 .stripe-1 {
