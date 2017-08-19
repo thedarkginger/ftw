@@ -87,14 +87,14 @@ h1 {
 
 #author p {
       font-family: 'Oswald';
-      font-size: 15px;
+      font-size: 20px;
       text-transform: uppercase;
     }
 
 .article_header p {
 	text-align: center;
 	font-family: 'Oswald';
-	font-size: 20px;
+	font-size: 16px;
 	letter-spacing: 1px;
 	background-color: #19B5FE;
 	padding: 10px;
