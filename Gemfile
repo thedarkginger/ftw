@@ -1,4 +1,5 @@
 source 'https://rubygems.org'
+ruby '2.2.1'
 
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
@@ -17,6 +18,7 @@ gem 'coffee-rails', '~> 4.1.0'
 gem 'lines-engine'
 gem 'execjs' 
 gem 'therubyracer'
+gem 'rails_12factor', group: :production
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
