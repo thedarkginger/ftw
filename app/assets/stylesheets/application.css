@@ -37,6 +37,11 @@
 	}
 }
 
+*, body {
+    margin: 0px;
+    padding: 0px;
+}
+
 /* BLOG POST FORMAT */ 
 
 h1 {
@@ -219,9 +224,3 @@ nav p:hover {
 }
 
 /* END NAVIGATION */ 
-
-*, body {
-    margin: 0px;
-    padding: 0px;
-}
-
