@@ -1,5 +1,5 @@
 class WelcomeController < ApplicationController
   def index
-  	@articles = LinesArticle.all
+  	@articles = LinesArticle.order(published_at: :asc).limit(4)
   end
 end
