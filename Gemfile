@@ -15,8 +15,8 @@ gem 'coffee-rails', '~> 4.1.0'
 # gem 'therubyracer', platforms: :ruby
 
 gem 'lines-engine'
-
-gem 'rails_12factor', group: :production
+gem 'execjs' 
+gem 'therubyracer'
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
