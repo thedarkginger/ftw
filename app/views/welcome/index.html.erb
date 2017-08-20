@@ -15,6 +15,7 @@
  <div class="article_content">    
         <p><%= markdown article.content %></p>
         <%= link_to "Get Link to This Story".html_safe, story_path(id: article.slug) %>
+        <%= asset_path('/uploads/lines/picture/image/9/aac_media_day_tulane_2017_team.jpg') %>
    </div>
     <button class="clickme" type="button">Show Story</button>
     <div class="separator"></div>
