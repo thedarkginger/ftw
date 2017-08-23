@@ -3,26 +3,17 @@
 ###################################
 
 logo: ""                                                                        # Logo for your blog. Leave empty if you don't have one
-blog_name: "LINES"                                                              # Give your blog a meanungful name.
-title: "LINES - A simple open source blog engine, built with Rails"             # Give your blog a meaningful title. This is used for the HTML title attribute
-title_short: "LINES"                                                            # Place the name of your blog or a short title here
-short_description: "A simple open source blog engine, built with Rails"         # Short description for your blog
-meta_description: "LINES - A simple open source blog engine, built with Rails"  # meta description tag
+blog_name: "Fear The Wave"                                                              # Give your blog a meanungful name.
+title: "Fear The Wave"             # Give your blog a meaningful title. This is used for the HTML title attribute
+title_short: "FTW"                                                            # Place the name of your blog or a short title here
+short_description: "The Community of Tulane Fans"         # Short description for your blog
+meta_description: "The Community of Tulane Fans"  # meta description tag
 meta_author: "John Doe"                                                         # meta tag for author
-keywords: "Lines, Blog, Ruby on Rails"                                          # your keywords
-og_logo: "https://opoloo.github.io/lines-engine/assets/images/lines-logo.jpg"   # OpenGraph logo
-geo_position: "50.00; 8.27"                                                     # Geo tags for position and address
-geo_address: "Opoloo, 55116 Mainz"                                              # Geo tags for position and address
+keywords: "Tulane Green Wave"                                          # your keywords
 
 
-##############
-### SOCIAL ###
-##############
 
-# Your Twitter and Google+ profile URL
-# Leave empty if you don't want to display inside the footer
-twitter_url: 'http://twitter.com/opoloo'
-gplus_url: 'https://plus.google.com/+Opoloo'
+
 
 
 #################

@@ -17,8 +17,6 @@ en:
       author: 'Author'
       publish: 'Publish'
       unpublish: 'Unpublish'
-      change_attachment: 'Change attachment'
-      remove_attachment: 'Remove attachment'
       attach_document: 'Attach document'
       upload_image: 'Upload an image'
       remove_hero_image: 'Remove hero image'
@@ -55,9 +53,7 @@ en:
       lines/article:
         title: 'Title'
         sub_title: 'Subtitle'
-        teaser: 'Teaser'
         content: 'Body copy'
-        gplus_url: 'Website'
         author_ids: 'Authors'
       lines/user:
         email: 'E-Mail'
