@@ -1,14 +1,16 @@
 <% content_for :head do %>
-<% @articles.each do |article| %>
-  <meta property="og:url" content="<%= "http://www.fearthewave.com" + article.slug %>" /> 
-  <meta property="og:type"   content="article" /> 
-  <meta property="og:title"  content="<%= article.title %>" /> 
-  <meta property="og:description"  content="<%= article.sub_title %>" /> 
-  <meta property="og:image"  content="https://pbs.twimg.com/media/DHxItWQUMAA1OF0.jpg" /> 
-<% end %>
+  <% @articles.each do |article| %>
+    <meta property="fb:app_id" content="512550735790473" /> 
+    <meta property="og:url" content="<%= "http://www.fearthewave.com" + article.slug %>" /> 
+    <meta property="og:type"   content="article" /> 
+    <meta property="og:title"  content="<%= article.title %>" /> 
+    <meta property="og:description"  content="<%= article.sub_title %>" /> 
+    <meta property="og:image"  content="https://pbs.twimg.com/media/DHxItWQUMAA1OF0.jpg" /> 
+  <% end %>
 <% end %>
 
 <div class="container">
+
 
 
 <% @articles.each do |article| %>
