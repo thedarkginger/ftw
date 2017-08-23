@@ -1,3 +1,4 @@
 class LinesArticle < ActiveRecord::Base
-	belongs_to :lines_authorable
+	  has_many :lines_authorables, foreign_key: :article_id
+  	  has_many :lines_authors, through: :lines_authorables
 end
