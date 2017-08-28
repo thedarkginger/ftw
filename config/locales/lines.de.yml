@@ -19,7 +19,6 @@ de:
       unpublish: 'Veröffentlichung rückgängig machen'
       change_attachment: 'Anhang ändern'
       remove_attachment: 'Anhang löschen'
-      attach_document: 'Dokument anhängen'
       upload_image: 'Bild hochladen'
       remove_hero_image: 'Artikel-Bild entfernen'
       select_hero_image: 'Artikel-Bild wählen'

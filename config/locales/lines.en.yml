@@ -17,7 +17,6 @@ en:
       author: 'Author'
       publish: 'Publish'
       unpublish: 'Unpublish'
-      attach_document: 'Attach document'
       upload_image: 'Upload an image'
       remove_hero_image: 'Remove hero image'
       select_hero_image: 'Select hero image'
