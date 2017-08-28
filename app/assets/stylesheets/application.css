@@ -107,8 +107,13 @@ h1 {
 	display: inline-block;
 	margin-bottom: 3px;
 }
-
 .article_content a {
+	font-weight: bold;
+}
+
+/* COVERS LINK AT BOTTOM */ 
+
+.article_content #linker a {
 	text-align: center;
 	font-family: 'Oswald';
 	font-size: 16px;
