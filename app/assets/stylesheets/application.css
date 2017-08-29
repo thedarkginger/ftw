@@ -26,7 +26,6 @@
 	margin: 0 auto;
 	margin-top: 20px;
 	}
-
 }
 
 @media only screen and (max-width: 800px) {
@@ -145,7 +144,7 @@ img {
 	margin: 0 auto; 
 }
 
-  .clickme {
+.clickme {
     margin-top: 25px !important;
     margin-left: 10% !important;
     margin: 0 auto 2em auto;
@@ -163,11 +162,10 @@ img {
     opacity: .8;
       }
 
-   .clickme:hover {
+.clickme:hover {
    	opacity: 1.0;
    }
   
-
 /* END POST FORMAT */ 
 
 /* NAVIGATION FORMAT */ 
