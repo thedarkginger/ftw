@@ -11,8 +11,8 @@
 
 		<tr>
 			<td><%= article.title %></td>
-			<td><%= article.published_at.strftime("%^B %d, %Y") %></td>
-			<td><%= link_to "Link".html_safe, story_path(id: article.slug) %></td>
+			<td style="text-align: center;"><%= article.published_at.strftime("%m/%d/%y") %></td>
+			<td style="text-align: center"><%= link_to "Link".html_safe, story_path(id: article.slug) %></td>
 		</tr>
 	<% end %>
 		</table>
