@@ -5,7 +5,7 @@ class PagesController < ApplicationController
 
   def tulaneblog
 
-  	@articles = LinesArticle.all 
+  	@articles = LinesArticle.order(published_at: :desc).all 
   end
 
 end
