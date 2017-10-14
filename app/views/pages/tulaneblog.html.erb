@@ -1,0 +1,20 @@
+<div class="container">
+
+
+	<table>
+		<tr>
+			<th>Article Name</th>
+			<th>Date Published</th>
+			<th>Link</th>
+		</tr> 
+	<% @articles.each do |article| %>
+
+		<tr>
+			<td><%= article.title %></td>
+			<td><%= article.published_at.strftime("%^B %d, %Y") %></td>
+			<td><%= link_to "Link".html_safe, story_path(id: article.slug) %></td>
+		</tr>
+	<% end %>
+		</table>
+
+</div>
