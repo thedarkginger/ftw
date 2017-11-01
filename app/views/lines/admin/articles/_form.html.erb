@@ -61,6 +61,13 @@
     </div>
 
 
+
+    <div class="input-field checkbox">
+    <%= f.label :paywall %><br>
+    <%= f.text_area :paywall%>
+  </div>
+
+
     </div>
 
     <h2><%= t('activerecord.models.lines/author', count: 2) %> <span style="color: #c10020;">*</span></h2>
@@ -78,6 +85,8 @@
     <div class="input-field required">
       <%= f.text_field :published_at, value: (@article.published_at || Time.now).strftime("%Y-%m-%d"), 'data-behaviour' => 'datepicker', placeholder: "Published on" %>
     </div>
+
+
 
     <%= render_navbar do %>
       <%= f.submit t('lines.buttons.save_article').html_safe, class: "btn btn-save-publish highlight" %>
