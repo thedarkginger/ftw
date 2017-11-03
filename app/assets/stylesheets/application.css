@@ -271,3 +271,8 @@ nav p:hover {
 
 /* END NAVIGATION */ 
 
+.select_box {
+	width: 80% !important;
+	font-size: 40px;
+}
+
