@@ -1,0 +1,37 @@
+<div class="container">
+
+<% @articles.each do |article| %>
+
+  <div class="article_header">
+   <p><%= article.published_at.strftime("%^B %d, %Y") %></p>
+    <h1><%= article.title %></h1>
+    <h2><%= article.sub_title %></h2>
+    <div id="author">
+    <p>By <%= article.lines_authors.last.name %></p>
+    </div>
+
+   </div>
+ <div class="article_content">  
+        <p><%= markdown article.content %></p>
+        <div id="linker">
+       		<%= link_to "Get Link to This Story".html_safe, story_path(id: article.slug) %>
+        </div>
+   </div>
+    <button class="clickme" type="button">Show Story</button>
+    <div class="separator"></div>
+
+      <% end %>
+
+      <div id="past">
+      <%= link_to "Wave of Old Posts".html_safe, tulaneblog_path %>
+      </div>
+</div>
+<br>
+
+<script>
+	$( ".article_content" ).hide()
+
+	$(".clickme").click(function() {
+	  $(this).prev(".article_content").slideToggle("300", function() {});
+	});
+</script>
