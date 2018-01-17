@@ -5,6 +5,7 @@ Rails.application.routes.draw do
   root 'welcome#index'
 
   get "story" => "pages#story"
+  get "data" => "pages#fearthewave"
   get "tulaneblog" => "pages#tulaneblog"
 
   get "insider" => "insider#index"
