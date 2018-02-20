@@ -1,1 +1,35 @@
-[{"show": "Fear the Wave", "episode": "Houston Preview", "date":"January 23", "audio":"https://rss.art19.com/episodes/871ae23d-0580-4677-b78e-93db3c5dfaf4.mp3"},{"show": "Fear the Wave", "episode": "SMU Preview", "date":"December 20", "audio":"https://rss.art19.com/episodes/fdc49077-bbbd-409a-9c3a-b1f96a7040ea.mp3"}, {"show": "Fear the Wave", "episode": "Army Preview", "date":"November 22", "audio":"https://rss.art19.com/episodes/fdc49077-bbbd-409a-9c3a-b1f96a7040ea.mp3"}]
+[
+	{
+		"show":"Fear the Wave",
+		"episode":"Fullcast",
+		"date":"January 22",
+		"url":"https://rss.art19.com/episodes/871ae23d-0580-4677-b78e-93db3c5dfaf4.mp3"
+	},
+	{
+		"show":"Fear the Wave",
+		"episode":"Recruiting with Bud",
+		"date":"December 21",
+		"url":"https://rss.art19.com/episodes/e8213375-917e-482a-8ba4-f58a298d8bf1.mp3"
+	},
+	{
+		"show":"Fear the Wave",
+		"episode":"PAPN",
+		"date":"November 22",
+		"url":"https://rss.art19.com/episodes/fdc49077-bbbd-409a-9c3a-b1f96a7040ea.mp3"
+	},
+	{
+		"show":"Defunctland",
+		"episode":"Old Riders",
+		"date":"February 12",
+		"url":"https://defunctland.podbean.com/mf/download/qinpeu/Brian_Podcast_Final_Video.mp3"
+	},
+	{
+		"show":"Defunctland",
+		"episode":"Tomb Raider",
+		"date":"January 3rd",
+		"url":"https://defunctland.podbean.com/mf/download/kmtynx/Brian_2.mp3"
+	}
+
+]
+
+
