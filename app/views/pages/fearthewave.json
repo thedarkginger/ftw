@@ -4,35 +4,40 @@
 		"episode":"Fullcast",
 		"date":"January 22",
 		"url":"https://rss.art19.com/episodes/871ae23d-0580-4677-b78e-93db3c5dfaf4.mp3",
-		"description":"This is an episode of the Fullcast from the SB Nation guys."
+		"description":"This is an episode of the Fullcast from the SB Nation guys.",
+		"image":"https://i.imgur.com/MrhKVXI.jpg"
 	},
 	{
 		"show":"Fear the Wave",
 		"episode":"Recruiting with Bud",
 		"date":"December 21",
 		"url":"https://rss.art19.com/episodes/e8213375-917e-482a-8ba4-f58a298d8bf1.mp3",
-		"description":"Bud does a podcast to talk about National Signing Day and what we can expect for the future of the early signing period. This is an SB Nation podcast."
+		"description":"Bud does a podcast to talk about National Signing Day and what we can expect for the future of the early signing period. This is an SB Nation podcast.",
+		"image":"https://i.imgur.com/MrhKVXI.jpg"
 	},
 	{
 		"show":"Fear the Wave",
 		"episode":"PAPN",
 		"date":"November 22",
 		"url":"https://rss.art19.com/episodes/fdc49077-bbbd-409a-9c3a-b1f96a7040ea.mp3",
-		"description":"A Power 5 team came close to doing what was unthinkable: running the triple option. Arizona kicked the tires on bringing Coach Ken from Navy, which would have been a game changer."
+		"description":"A Power 5 team came close to doing what was unthinkable: running the triple option. Arizona kicked the tires on bringing Coach Ken from Navy, which would have been a game changer.",
+		"image":"https://i.imgur.com/MrhKVXI.jpg"
 	},
 	{
 		"show":"Defunctland",
 		"episode":"Old Rides",
 		"date":"February 12",
 		"url":"http://defunctland.podbean.com/mf/feed/qinpeu/Brian_Podcast_Final_Video.mp3",
-		"description":"This is a ride by ride breakdown of famous rides that are no longer there by the team behind Defunctland."
+		"description":"This is a ride by ride breakdown of famous rides that are no longer there by the team behind Defunctland.",
+		"image":"http://deow9bq0xqvbj.cloudfront.net/image-logo/1972397/Podcast_Cover_Art.png"
 	},
 	{
 		"show":"Defunctland",
 		"episode":"Tomb Raider",
 		"date":"January 3rd",
 		"url":"http://s129.podbean.com/pb/f9b6ff293c36f68b1747ba8abe456677/5a8bd5b9/data2/fs108/1972397/uploads/Brian_2.mp3",
-		"description":"In the early 2000s, Paramount Park did something unthinkable and brought a truly death-defying ride to its park in Ohio. Heavily themed and original, Tomb Raider changed the game."
+		"description":"In the early 2000s, Paramount Park did something unthinkable and brought a truly death-defying ride to its park in Ohio. Heavily themed and original, Tomb Raider changed the game.",
+		"image":"http://deow9bq0xqvbj.cloudfront.net/image-logo/1972397/Podcast_Cover_Art.png"
 
 	}, 
 		{
@@ -40,7 +45,8 @@
 		"episode":"Cincy Preview",
 		"date":"February 3rd",
 		"url":"http://hwcdn.libsyn.com/p/b/1/4/b143aa3dd616fc8b/330.mp3?c_id=19215232&destination_id=309605&expiration=1519118231&hwt=958e1f718cf2764176b68fcc083a0753",
-		"description":"Houston caps off an historic victory over Cincy in their effort to becom ean NCAA team."
+		"description":"Houston caps off an historic victory over Cincy in their effort to become an NCAA team. They also posted an important victory over the Tulane Green Wave to split the season series in a beatdown at home.",
+		"image":"https://i1.sndcdn.com/avatars-000186269941-jnppiw-t500x500.jpg"
 	}
 
 ]
