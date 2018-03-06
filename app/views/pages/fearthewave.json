@@ -64,7 +64,16 @@
 		"paywall":"no"
 	},
 	{
-		"show":"Scott & Holman Pawdcast",
+		"show":"No Laying Up",
+		"episode":"Dustin Johnson Episode",
+		"date":"February 27",
+		"url":"https://ia601509.us.archive.org/34/items/DJPodFinal/DJ%20Pod%20Final.mp3",
+		"description":"Dustin Johnson joins the show to talk about his golf career",
+		"image":"https://secureimg.stitcher.com/feedimagesplain328/123279.jpg",
+		"paywall":"yes"
+	},
+		{
+		"show":"No Laying Up",
 		"episode":"Dustin Johnson Episode",
 		"date":"February 27",
 		"url":"https://ia601509.us.archive.org/34/items/DJPodFinal/DJ%20Pod%20Final.mp3",
