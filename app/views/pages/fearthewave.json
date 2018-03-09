@@ -74,9 +74,18 @@
 	},
 		{
 		"show":"No Laying Up",
-		"episode":"Dustin Johnson Episode",
+		"episode":"Hueber and Guthrie Pod",
 		"date":"February 27",
-		"url":"https://ia601509.us.archive.org/34/items/DJPodFinal/DJ%20Pod%20Final.mp3",
+		"url":"https://ia601501.us.archive.org/28/items/HueberGuthriePod/Hueber%20Guthrie%20Pod.mp3",
+		"description":"Dustin Johnson joins the show to talk about his golf career",
+		"image":"https://secureimg.stitcher.com/feedimagesplain328/123279.jpg",
+		"paywall":"yes"
+	}, 
+	{
+		"show":"No Laying Up",
+		"episode":"WGC Wrap-Up",
+		"date":"February 27",
+		"url":"https://ia601505.us.archive.org/20/items/DJPieWGC/DJ%20Pie%20WGC.mp3",
 		"description":"Dustin Johnson joins the show to talk about his golf career",
 		"image":"https://secureimg.stitcher.com/feedimagesplain328/123279.jpg",
 		"paywall":"yes"
