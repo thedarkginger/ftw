@@ -1,120 +1,119 @@
-[
-	{
-		"show":"Fear the Wave",
-		"episode":"Tulane Baseball Check-in with Todd",
-		"date":"February 28th",
-		"url":"http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/406550040-user-774038550-e27-tulane-baseball-check-in-with-todd-graffagnini.m4a",
-		"description":"Check in with Todd Graffagnini",
-		"image":"https://i.imgur.com/MrhKVXI.jpg",
-		"paywall":"no"
-	},
-	{
-		"show":"Fear the Wave",
-		"episode":"Fullcast Special Test Episode",
-		"date":"January 22",
-		"url":"https://rss.art19.com/episodes/871ae23d-0580-4677-b78e-93db3c5dfaf4.mp3",
-		"description":"This is an episode of the Fullcast from the SB Nation guys.",
-		"image":"https://i.imgur.com/MrhKVXI.jpg",
-		"paywall":"no"
-	},
-	{
-		"show":"Fear the Wave",
-		"episode":"Recruiting with Bud Special Test Episode",
-		"date":"December 21",
-		"url":"https://rss.art19.com/episodes/e8213375-917e-482a-8ba4-f58a298d8bf1.mp3",
-		"description":"Bud does a podcast to talk about National Signing Day and what we can expect for the future of the early signing period. This is an SB Nation podcast.",
-		"image":"https://i.imgur.com/MrhKVXI.jpg",
-		"paywall":"yes"
-	},
-	{
-		"show":"Fear the Wave",
-		"episode":"Podcast Ain't Played Nobody Special Test Episode with Bill and Godfrey",
-		"date":"November 22",
-		"url":"https://rss.art19.com/episodes/fdc49077-bbbd-409a-9c3a-b1f96a7040ea.mp3",
-		"description":"A Power 5 team came close to doing what was unthinkable: running the triple option. Arizona kicked the tires on bringing Coach Ken from Navy, which would have been a game changer.",
-		"image":"https://i.imgur.com/MrhKVXI.jpg",
-		"paywall":"no"
-	},
-	{
-		"show":"Defunctland",
-		"episode":"Old Rides",
-		"date":"February 12",
-		"url":"http://defunctland.podbean.com/mf/feed/qinpeu/Brian_Podcast_Final_Video.mp3",
-		"description":"This is a ride by ride breakdown of famous rides that are no longer there by the team behind Defunctland.",
-		"image":"http://deow9bq0xqvbj.cloudfront.net/image-logo/1972397/Podcast_Cover_Art.png",
-		"paywall":"no"
-	},
-	{
-		"show":"Defunctland",
-		"episode":"Tomb Raider",
-		"date":"January 3rd",
-		"url":"http://s129.podbean.com/pb/f9b6ff293c36f68b1747ba8abe456677/5a8bd5b9/data2/fs108/1972397/uploads/Brian_2.mp3",
-		"description":"In the early 2000s, Paramount Park did something unthinkable and brought a truly death-defying ride to its park in Ohio. Heavily themed and original, Tomb Raider changed the game.",
-		"image":"http://deow9bq0xqvbj.cloudfront.net/image-logo/1972397/Podcast_Cover_Art.png",
-		"paywall":"yes"
-
-	}, 
-		{
-		"show":"Scott & Holman Pawdcast",
-		"episode":"Cincy Preview and Other Key Info Special Test Episode",
-		"date":"February 3rd",
-		"url":"http://hwcdn.libsyn.com/p/b/1/4/b143aa3dd616fc8b/330.mp3?c_id=19215232&destination_id=309605&expiration=1519118231&hwt=958e1f718cf2764176b68fcc083a0753",
-		"description":"Houston caps off an historic victory over Cincy in their effort to become an NCAA team. They also posted an important victory over the Tulane Green Wave to split the season series in a beatdown at home.",
-		"image":"https://i1.sndcdn.com/avatars-000186269941-jnppiw-t500x500.jpg",
-		"paywall":"no"
-	},
-	{
-		"show":"No Laying Up",
-		"episode":"Dustin Johnson Episode",
-		"date":"February 28",
-		"url":"https://ia601509.us.archive.org/34/items/DJPodFinal/DJ%20Pod%20Final.mp3",
-		"description":"Dustin Johnson joins the show to talk about his golf career",
-		"image":"https://secureimg.stitcher.com/feedimagesplain328/123279.jpg",
-		"paywall":"yes"
-	},
-		{
-		"show":"No Laying Up",
-		"episode":"Hueber and Guthrie Pod",
-		"date":"February 14",
-		"url":"https://ia601501.us.archive.org/28/items/HueberGuthriePod/Hueber%20Guthrie%20Pod.mp3",
-		"description":"Dustin Johnson joins the show to talk about his golf career",
-		"image":"https://secureimg.stitcher.com/feedimagesplain328/123279.jpg",
-		"paywall":"yes"
-	}, 
-	{
-		"show":"No Laying Up",
-		"episode":"WGC Wrap-Up",
-		"date":"February 7",
-		"url":"https://ia601505.us.archive.org/20/items/DJPieWGC/DJ%20Pie%20WGC.mp3",
-		"description":"Dustin Johnson joins the show to talk about his golf career",
-		"image":"https://secureimg.stitcher.com/feedimagesplain328/123279.jpg",
-		"paywall":"yes"
-	},
-	{
-		"show":"Podcast Ain't Played Nobody",
-		"episode":"NFL Draft Preview",
-		"date":"March 14",
-		"url":"https://rss.art19.com/episodes/cb82d174-86a5-4713-828b-224cbdec5fa5.mp3",
-		"description":"Deep dive on Josh Allen and the NFL Draft.",
-		"image":"https://dfkfj8j276wwv.cloudfront.net/images/f1/bd/1e/b8/f1bd1eb8-a45f-41c0-a8df-6236ca171caf/a323722c9f83387bd674c910223e966fb7a549dc4f27227ddf960997c145f129da30c7dbd0e5fabc635b6383deea467d647a01d65d6abfca7bc3a6959feaf739.jpeg",
-		"paywall":"no"
-	},
-	{
-		"show":"Podcast Ain't Played Nobody",
-		"episode":"The U: Update on Miami",
-		"date":"March 8",
-		"url":"https://rss.art19.com/episodes/84ca5a74-6e98-4b77-b06d-0306dd16f130.mp3",
-		"description":"Lights, camera, MACtion",
-		"image":"https://dfkfj8j276wwv.cloudfront.net/images/f1/bd/1e/b8/f1bd1eb8-a45f-41c0-a8df-6236ca171caf/a323722c9f83387bd674c910223e966fb7a549dc4f27227ddf960997c145f129da30c7dbd0e5fabc635b6383deea467d647a01d65d6abfca7bc3a6959feaf739.jpeg",
-		"paywall":"no"
-	},
-	{
-		"show":"Podcast Ain't Played Nobody",
-		"episode":"BYU and Chad Morris",
-		"date":"March 8",
-		"url":"https://rss.art19.com/episodes/b5136a0a-3389-4227-a954-20fe845e4144.mp3",
-		"description":"BYU's dying independence.",
-		"image":"https://dfkfj8j276wwv.cloudfront.net/images/f1/bd/1e/b8/f1bd1eb8-a45f-41c0-a8df-6236ca171caf/a323722c9f83387bd674c910223e966fb7a549dc4f27227ddf960997c145f129da30c7dbd0e5fabc635b6383deea467d647a01d65d6abfca7bc3a6959feaf739.jpeg",
-		"paywall":"no"
-	}
+[  
+   {  
+      "show":"Fear the Wave",
+      "episode":"Tulane Baseball Check-in with Todd",
+      "date":"03-17-2018",
+      "url":"http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/406550040-user-774038550-e27-tulane-baseball-check-in-with-todd-graffagnini.m4a",
+      "description":"Check in with Todd Graffagnini",
+      "image":"https://i.imgur.com/MrhKVXI.jpg",
+      "paywall":"no"
+   },
+   {  
+      "show":"Fear the Wave",
+      "episode":"Fullcast Special Test Episode",
+      "date":"03-10-2018",
+      "url":"https://rss.art19.com/episodes/871ae23d-0580-4677-b78e-93db3c5dfaf4.mp3",
+      "description":"This is an episode of the Fullcast from the SB Nation guys.",
+      "image":"https://i.imgur.com/MrhKVXI.jpg",
+      "paywall":"no"
+   },
+   {  
+      "show":"Fear the Wave",
+      "episode":"Recruiting with Bud Special Test Episode",
+      "date":"03-03-2018",
+      "url":"https://rss.art19.com/episodes/e8213375-917e-482a-8ba4-f58a298d8bf1.mp3",
+      "description":"Bud does a podcast to talk about National Signing Day and what we can expect for the future of the early signing period. This is an SB Nation podcast.",
+      "image":"https://i.imgur.com/MrhKVXI.jpg",
+      "paywall":"yes"
+   },
+   {  
+      "show":"Fear the Wave",
+      "episode":"Podcast Ain't Played Nobody Special Test Episode with Bill and Godfrey",
+      "date":"02-30-2018",
+      "url":"https://rss.art19.com/episodes/fdc49077-bbbd-409a-9c3a-b1f96a7040ea.mp3",
+      "description":"A Power 5 team came close to doing what was unthinkable: running the triple option. Arizona kicked the tires on bringing Coach Ken from Navy, which would have been a game changer.",
+      "image":"https://i.imgur.com/MrhKVXI.jpg",
+      "paywall":"no"
+   },
+   {  
+      "show":"Defunctland",
+      "episode":"Old Rides",
+      "date":"03-19-2018",
+      "url":"http://defunctland.podbean.com/mf/feed/qinpeu/Brian_Podcast_Final_Video.mp3",
+      "description":"This is a ride by ride breakdown of famous rides that are no longer there by the team behind Defunctland.",
+      "image":"http://deow9bq0xqvbj.cloudfront.net/image-logo/1972397/Podcast_Cover_Art.png",
+      "paywall":"no"
+   },
+   {  
+      "show":"Defunctland",
+      "episode":"Tomb Raider",
+      "date":"03-08-2018",
+      "url":"http://s129.podbean.com/pb/f9b6ff293c36f68b1747ba8abe456677/5a8bd5b9/data2/fs108/1972397/uploads/Brian_2.mp3",
+      "description":"In the early 2000s, Paramount Park did something unthinkable and brought a truly death-defying ride to its park in Ohio. Heavily themed and original, Tomb Raider changed the game.",
+      "image":"http://deow9bq0xqvbj.cloudfront.net/image-logo/1972397/Podcast_Cover_Art.png",
+      "paywall":"yes"
+   },
+   {  
+      "show":"Scott \u0026 Holman Pawdcast",
+      "episode":"Cincy Preview and Other Key Info Special Test Episode",
+      "date":"03-05-2018",
+      "url":"http://hwcdn.libsyn.com/p/b/1/4/b143aa3dd616fc8b/330.mp3?c_id=19215232\u0026destination_id=309605\u0026expiration=1519118231\u0026hwt=958e1f718cf2764176b68fcc083a0753",
+      "description":"Houston caps off an historic victory over Cincy in their effort to become an NCAA team. They also posted an important victory over the Tulane Green Wave to split the season series in a beatdown at home.",
+      "image":"https://i1.sndcdn.com/avatars-000186269941-jnppiw-t500x500.jpg",
+      "paywall":"no"
+   },
+   {  
+      "show":"No Laying Up",
+      "episode":"Dustin Johnson Episode",
+      "date":"04-17-2018",
+      "url":"https://ia601509.us.archive.org/34/items/DJPodFinal/DJ%20Pod%20Final.mp3",
+      "description":"Dustin Johnson joins the show to talk about his golf career",
+      "image":"https://secureimg.stitcher.com/feedimagesplain328/123279.jpg",
+      "paywall":"yes"
+   },
+   {  
+      "show":"No Laying Up",
+      "episode":"Hueber and Guthrie Pod",
+      "date":"03-12-2018",
+      "url":"https://ia601501.us.archive.org/28/items/HueberGuthriePod/Hueber%20Guthrie%20Pod.mp3",
+      "description":"Dustin Johnson joins the show to talk about his golf career",
+      "image":"https://secureimg.stitcher.com/feedimagesplain328/123279.jpg",
+      "paywall":"yes"
+   },
+   {  
+      "show":"No Laying Up",
+      "episode":"WGC Wrap-Up",
+      "date":"02-15-2018",
+      "url":"https://ia601505.us.archive.org/20/items/DJPieWGC/DJ%20Pie%20WGC.mp3",
+      "description":"Dustin Johnson joins the show to talk about his golf career",
+      "image":"https://secureimg.stitcher.com/feedimagesplain328/123279.jpg",
+      "paywall":"yes"
+   },
+   {  
+      "show":"Podcast Ain't Played Nobody",
+      "episode":"NFL Draft Preview",
+      "date":"03-14-2018",
+      "url":"https://rss.art19.com/episodes/cb82d174-86a5-4713-828b-224cbdec5fa5.mp3",
+      "description":"Deep dive on Josh Allen and the NFL Draft.",
+      "image":"https://dfkfj8j276wwv.cloudfront.net/images/f1/bd/1e/b8/f1bd1eb8-a45f-41c0-a8df-6236ca171caf/a323722c9f83387bd674c910223e966fb7a549dc4f27227ddf960997c145f129da30c7dbd0e5fabc635b6383deea467d647a01d65d6abfca7bc3a6959feaf739.jpeg",
+      "paywall":"no"
+   },
+   {  
+      "show":"Podcast Ain't Played Nobody",
+      "episode":"The U: Update on Miami",
+      "date":"03-04-2018",
+      "url":"https://rss.art19.com/episodes/84ca5a74-6e98-4b77-b06d-0306dd16f130.mp3",
+      "description":"Lights, camera, MACtion",
+      "image":"https://dfkfj8j276wwv.cloudfront.net/images/f1/bd/1e/b8/f1bd1eb8-a45f-41c0-a8df-6236ca171caf/a323722c9f83387bd674c910223e966fb7a549dc4f27227ddf960997c145f129da30c7dbd0e5fabc635b6383deea467d647a01d65d6abfca7bc3a6959feaf739.jpeg",
+      "paywall":"no"
+   },
+   {  
+      "show":"Podcast Ain't Played Nobody",
+      "episode":"BYU and Chad Morris",
+      "date":"03-01-2018",
+      "url":"https://rss.art19.com/episodes/b5136a0a-3389-4227-a954-20fe845e4144.mp3",
+      "description":"BYU's dying independence.",
+      "image":"https://dfkfj8j276wwv.cloudfront.net/images/f1/bd/1e/b8/f1bd1eb8-a45f-41c0-a8df-6236ca171caf/a323722c9f83387bd674c910223e966fb7a549dc4f27227ddf960997c145f129da30c7dbd0e5fabc635b6383deea467d647a01d65d6abfca7bc3a6959feaf739.jpeg",
+      "paywall":"no"
+   }
 ]
