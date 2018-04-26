@@ -91,7 +91,7 @@
    },
    {  
       "show":"Podcast Ain't Played Nobody",
-      "episode":"NFL Draft Preview",
+      "episode":"PAPN Draft Extravaganza: Josh Allen, trading down, and the millennials will save us all",
       "date":"03-14-2018",
       "url":"https://rss.art19.com/episodes/cb82d174-86a5-4713-828b-224cbdec5fa5.mp3",
       "description":"Deep dive on Josh Allen and the NFL Draft.",
@@ -100,7 +100,7 @@
    },
    {  
       "show":"Podcast Ain't Played Nobody",
-      "episode":"The U: Update on Miami",
+      "episode":"The U: Present, future, party busses, and national title potential",
       "date":"03-04-2018",
       "url":"https://rss.art19.com/episodes/84ca5a74-6e98-4b77-b06d-0306dd16f130.mp3",
       "description":"Lights, camera, MACtion",
@@ -109,7 +109,7 @@
    },
    {  
       "show":"Podcast Ain't Played Nobody",
-      "episode":"BYU and Chad Morris",
+      "episode":"BYU's dying independence, Chad Morris' year zero, and UAB's middle finger",
       "date":"03-01-2018",
       "url":"https://rss.art19.com/episodes/b5136a0a-3389-4227-a954-20fe845e4144.mp3",
       "description":"BYU's dying independence.",
@@ -168,6 +168,15 @@
       "url":"https://audio.simplecast.com/b8e8eeb4.mp3",
       "description":"Placeholder",
       "image":"https://media.simplecast.com/podcast/image/4123/1517966385-artwork.jpg",
+      "paywall":"no"
+   },
+     {  
+      "show":"Podcast Ain't Played Nobody",
+      "episode":"Behold, as we accidentally set the state of Texas on fire",
+      "date":"04-19-2018",
+      "url":"https://rss.art19.com/episodes/d65ff04e-b7cd-4e82-a20f-6c3279c56602.mp3",
+      "description":"BYU's dying independence.",
+      "image":"https://dfkfj8j276wwv.cloudfront.net/images/f1/bd/1e/b8/f1bd1eb8-a45f-41c0-a8df-6236ca171caf/a323722c9f83387bd674c910223e966fb7a549dc4f27227ddf960997c145f129da30c7dbd0e5fabc635b6383deea467d647a01d65d6abfca7bc3a6959feaf739.jpeg",
       "paywall":"no"
    }
 ]
