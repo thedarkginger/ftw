@@ -142,8 +142,40 @@
       "description":"The Disney Parks experience for former DC stars",
       "image":"https://i1.sndcdn.com/artworks-000336163938-ezmg76-t500x500.jpg",
       "paywall":"no"
+   },
+    {  
+      "show":"Armchair Expert",
+      "episode":"Seth Green", 
+      "date":"04-21-2018",
+      "url":"https://audio.simplecast.com/e77e2f08.mp3",
+      "description":"Placeholder",
+      "image":"https://media.simplecast.com/podcast/image/4123/1517966385-artwork.jpg",
+      "paywall":"no"
+   },
+     {  
+      "show":"Armchair Expert",
+      "episode":"Katie Couric", 
+      "date":"04-11-2018",
+      "url":"https://audio.simplecast.com/85369848.mp3",
+      "description":"Placeholder",
+      "image":"https://media.simplecast.com/podcast/image/4123/1517966385-artwork.jpg",
+      "paywall":"no"
+   }, 
+     {  
+      "show":"Armchair Expert",
+      "episode":"Anna Harris", 
+      "date":"03-16-2018",
+      "url":"https://audio.simplecast.com/b8e8eeb4.mp3",
+      "description":"Placeholder",
+      "image":"https://media.simplecast.com/podcast/image/4123/1517966385-artwork.jpg",
+      "paywall":"no"
    }
 ]
+
+
+
+
+
 
 
 
