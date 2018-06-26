@@ -2,7 +2,7 @@
    {  
       "podcast_id":"1",
       "show":"Fear the Wave",
-      "episode":"E27: Tulane Baseball Check-in with Todd Graffagnini", 
+      "episode":"Tulane Baseball Check-in with Todd Graffagnini | Ep. 26", 
       "date":"03-17-2018",
       "url":"http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/406550040-user-774038550-e27-tulane-baseball-check-in-with-todd-graffagnini.m4a",
       "description":"Check in with Todd Graffagnini",
@@ -12,7 +12,7 @@
    { 
       "podcast_id":"2", 
       "show":"Fear the Wave",
-      "episode":"Fullcast Special Test Episode",
+      "episode":"SB Nation Interview with FTW | Ep. 25",
       "date":"03-10-2018",
       "url":"https://rss.art19.com/episodes/871ae23d-0580-4677-b78e-93db3c5dfaf4.mp3",
       "description":"This is an episode of the Fullcast from the SB Nation guys.",
@@ -22,7 +22,7 @@
    {  
       "podcast_id":"3",
       "show":"Fear the Wave",
-      "episode":"Recruiting with Bud Special Test Episode",
+      "episode":"Recruiting Updates: A Special | Ep. 24",
       "date":"03-03-2018",
       "url":"https://rss.art19.com/episodes/e8213375-917e-482a-8ba4-f58a298d8bf1.mp3",
       "description":"Bud does a podcast to talk about National Signing Day and what we can expect for the future of the early signing period. This is an SB Nation podcast.",
@@ -31,8 +31,8 @@
    },
    { 
       "podcast_id":"4", 
-      "show":"Fear the Wave",
-      "episode":"Podcast Ain't Played Nobody Special Test Episode with Bill and Godfrey",
+      "show":"Fear the Wave Looks Back at Recruiting Season  Ep. 23",
+      "episode":"",
       "date":"02-05-2018",
       "url":"https://rss.art19.com/episodes/fdc49077-bbbd-409a-9c3a-b1f96a7040ea.mp3",
       "description":"A Power 5 team came close to doing what was unthinkable: running the triple option. Arizona kicked the tires on bringing Coach Ken from Navy, which would have been a game changer.",
@@ -152,7 +152,7 @@
      {  
       "podcast_id":"16",
       "show":"Fear the Wave",
-      "episode":"Tulane Spring Game Review | Ep. 28", 
+      "episode":"Tulane Spring Game: The Big Questions | Ep. 27", 
       "date":"04-20-2018",
       "url":"http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/430824201-user-774038550-tulane-spring-game-review-ep-28.m4a",
       "description":"The Disney Parks experience for former DC stars",
@@ -208,7 +208,27 @@
       "description":"Pelicans extend Alvin Gentry's contract.",
       "image":"https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/29/3b/61/293b6147-edbf-077c-89db-52290c681350/source/600x600bb.jpg",
       "paywall":"no"
-   }
+   },
+      {  
+      "podcast_id":"22",
+      "show":"Fear the Wave",
+      "episode":"Spring Game Review with Sam | Ep. 28", 
+      "date":"05-20-2018",
+      "url":"http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/430824201-user-774038550-tulane-spring-game-review-ep-28.m4a",
+      "description":"Athlon Sports joins the podcast to talk about the upcoming season for Green Wave football. They discuss their preview series and what we can expect to see in AAC football this year.",
+      "image":"https://i1.sndcdn.com/artworks-000336163938-ezmg76-t500x500.jpg",
+      "paywall":"no"
+   },
+   {  
+      "podcast_id":"23",
+      "show":"Fear the Wave",
+      "episode":"Tulane Football Preview with Athlon Sports | Ep. 29", 
+      "date":"05-24-2018",
+      "url":"http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/448381857-user-774038550-tulane-football-preview-with-athlon-sports-aac-baseball-with-tim-yandel-ep-29.m4a",
+      "description":"Athlon Sports joins the podcast to talk about the upcoming season for Green Wave football. They discuss their preview series and what we can expect to see in AAC football this year.",
+      "image":"https://i1.sndcdn.com/artworks-000336163938-ezmg76-t500x500.jpg",
+      "paywall":"no"
+   },
 ]
 
 
