@@ -228,6 +228,16 @@
       "description":"Athlon Sports joins the podcast to talk about the upcoming season for Green Wave football. They discuss their preview series and what we can expect to see in AAC football this year.",
       "image":"https://i1.sndcdn.com/artworks-000336163938-ezmg76-t500x500.jpg",
       "paywall":"no"
+   },
+      {  
+      "podcast_id":"24",
+      "show":"Podcast: The Ride",
+      "episode":"Great Moments with Mr. Lincoln", 
+      "date":"05-24-2018",
+      "url":"https://rss.art19.com/episodes/d738b923-db73-4d2c-ace2-e046180c790e.mp3",
+      "description":"The boys tackle Disneyland's Great Moments with Mr. Lincoln, a ride most dads call Great Moments with Air Conditioning.",
+      "image":"https://content.production.cdn.art19.com/images/37/f1/3f/35/37f13f35-f071-46b7-8976-82281ef9f4b6/9e080db5d6d2844e5f56b8e78b3d3f05985f43b6d9153f1f90da780a1564a0c9021580dddfdd60da492c2666c1c898ef66bbcf2483465bf4430207f19459eaf4.jpeg",
+      "paywall":"no"
    }
 ]
 
