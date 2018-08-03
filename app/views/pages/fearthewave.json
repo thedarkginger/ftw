@@ -13,14 +13,23 @@
       "podcast_id":"2",
       "show":"Fear the Wavecast",
       "episode":"SZN2 EP2: Tulane Fall Camp Report | Interviews with Fritz and Banks", 
-      "date":"7-23-2018",
+      "date":"8-02-2018",
       "url":"http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/479938599-user-774038550-szn2-ep2-tulane-opens-fall-camp-interviews-with-fritz-and-banks.m4a", 
+      "description":"Interview with Janny about the First Practice.",
+      "image":"https://i1.sndcdn.com/artworks-000336163938-ezmg76-t500x500.jpg",
+      "paywall":"no"
+   },
+      {  
+      "podcast_id":"3",
+      "show":"Fear the Wavecast",
+      "episode":"THE PERFECT WAVE: Chapter One - From Buddy to Bowden", 
+      "date":"8-03-2018",
+      "url":"http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/480642873-user-774038550-the-perfect-wave-chapter-one-from-buddy-to-bowden.mp3", 
       "description":"Interview with Janny about the First Practice.",
       "image":"https://i1.sndcdn.com/artworks-000336163938-ezmg76-t500x500.jpg",
       "paywall":"no"
    }
 ]
-
 
 
 
