@@ -6,7 +6,7 @@
       "date":"7-23-2018",
       "url":"http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/475802916-user-774038550-szn2-ep1-state-of-tulane-with-troy-dannen-live-from-aac-media-days.m4a",
       "description":"Interview with Troy Dannen",
-      "image":"https://i1.sndcdn.com/artworks-000336163938-ezmg76-t500x500.jpg",
+      "image":"https://cdn1.player.fm/images/5627896/series/dFgskTCIjW5MCIic/512.jpg",
       "paywall":"no"
    },
       {  
@@ -16,7 +16,7 @@
       "date":"8-02-2018",
       "url":"http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/479938599-user-774038550-szn2-ep2-tulane-opens-fall-camp-interviews-with-fritz-and-banks.m4a", 
       "description":"Interview with Janny about the First Practice.",
-      "image":"https://i1.sndcdn.com/artworks-000336163938-ezmg76-t500x500.jpg",
+      "image":"https://cdn1.player.fm/images/5627896/series/dFgskTCIjW5MCIic/512.jpg",
       "paywall":"no"
    },
       {  
@@ -26,8 +26,18 @@
       "date":"8-03-2018",
       "url":"http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/480642873-user-774038550-the-perfect-wave-chapter-one-from-buddy-to-bowden.mp3", 
       "description":"The year is 1997. Tulane is coming off an 11-45 record over the past five seasons, when a new coach is hired: Tommy Bowden, son of FSU legend Bobby Bowden. The coaching staff set the bar high that things were going to change, but how sure were they? The first episode of this six part documentary traces the rise of the Green Wave from the cellar of Conference USA in their first season under a new staff.",
-      "image":"https://i1.sndcdn.com/artworks-000336163938-ezmg76-t500x500.jpg",
+      "image":"https://cdn1.player.fm/images/5627896/series/dFgskTCIjW5MCIic/512.jpg",
       "paywall":"no"
+   }, 
+   {  
+      "podcast_id":"4",
+      "show":"Fear the Wavecast",
+      "episode":"THE PERFECT WAVE: Chapter Two - Camp Covington", 
+      "date":"8-09-2018",
+      "url":"https://uc85702bdb8dd4a399dae106ec18.dl.dropboxusercontent.com/cd/0/get/ANhW1fM7Ai6aj_PwQk0CtEg7FUjaT-0LnpWViq3SkssTfdG8XCbDvY26QXUm5_Th-AaC03T2jzWkpZgXOzlk6F9dIRKG_Dl0kYpAlr40C3BkynWpz6XIlp4wFXa3cDieKRhHOSyf0-kf70Gtya1sJmaV9FvOln6g4Di7Q3h6I2VquHqzTUIOV6Ry5tLQGw5-Uwf_gE5u9y5w4QBttcVNGJA0/file?dl=1", 
+      "description":"The year is 1997. Tulane is coming off an 11-45 record over the past five seasons, when a new coach is hired: Tommy Bowden, son of FSU legend Bobby Bowden. The coaching staff set the bar high that things were going to change, but how sure were they? The first episode of this six part documentary traces the rise of the Green Wave from the cellar of Conference USA in their first season under a new staff.",
+      "image":"https://cdn1.player.fm/images/5627896/series/dFgskTCIjW5MCIic/512.jpg",
+      "paywall":"yes"
    }
 ]
 
