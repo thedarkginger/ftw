@@ -78,11 +78,29 @@
       "description":"FTW Staffer Janny Meza follows the Wave at two practices last week and reports back on the team's progress as they approach the season opener. We discuss overall observations and then break down the DL and OL.",
       "image":"https://cdn1.player.fm/images/5627896/series/dFgskTCIjW5MCIic/512.jpg",
       "paywall":"no"
+   },
+
+   {  
+      "podcast_id":"12",
+      "show":"Fear the Wavecast",
+      "episode":"SZN2 EP3.5: Camp Report on DBs and Special Teams | Interviews with Jaylon Monroe (Exclusive)", 
+      "date":"8-23-2018",
+      "url":"http://feeds.soundcloud.com/stream/489819000-user-72507999-ftw_ep_35.m4a", 
+      "description":"FTW Staffer Janny Meza produces his first weekly insider report from camp. This one looks at the Tulane DBs and Special Teams.",
+      "image":"https://cdn1.player.fm/images/5627896/series/dFgskTCIjW5MCIic/512.jpg",
+      "paywall":"yes"
+   }, 
+      {  
+      "podcast_id":"13",
+      "show":"Saints Happy Hour Podcast",
+      "episode":"Zach Strief, Saints Radio Play by Play Guy, on Why 2018 Saints Can Be Special", 
+      "date":"8-23-2018",
+      "url":"https://saintshappyhour.podbean.com/mf/download/gd4y56/Strief_interview_FINAL.mp3", 
+      "description":"Saints new play-by-play guy, Zach Strief stops by to talk 2018 Saints, practice vs Chargers, jumping from playing right tackle to doing play by play. ",
+      "image":"https://deow9bq0xqvbj.cloudfront.net/image-logo/381732/SHHP-1400by1400_2.jpg",
+      "paywall":"no"
    }
 ]
-
-
-
 
 
 
