@@ -209,6 +209,16 @@
       "description":"Ralph and Andrew give an in-depth preview of Saints-Browns.",
       "image":"https://deow9bq0xqvbj.cloudfront.net/image-logo/381732/SHHP-1400by1400_2.jpg",
       "paywall":"yes"
+   },
+     {  
+      "podcast_id":"25",
+      "show":"Pod of Geauxld",
+      "episode":"One Drive - Auburn", 
+      "date":"9-19-2018",
+      "url":"http://feeds.soundcloud.com/stream/502416285-user-72507999-pog_auburn.mp3", 
+      "description":"Brett and Mike get together to go over the most crucial drives in LSUs thrilling 22-21 victory at Auburn.  ",
+      "image":"https://cdn.zencast.fm/download/Podcast%2Fartworks%2F1245%2Flarge%2F8c244b370747c1930a4e0967254778ddbb69f6a409e62beebe5f92191a09a3a1%2Funnamed.jpg",
+      "paywall":"yes"
    }
 ]
 
