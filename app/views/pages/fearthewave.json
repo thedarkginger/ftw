@@ -289,7 +289,27 @@
       "description":"Brett and Mike give you an extra pregame pod to get you hyped for LSU Bama.",
       "image":"https://cdn.zencast.fm/download/Podcast%2Fartworks%2F1245%2Flarge%2F8c244b370747c1930a4e0967254778ddbb69f6a409e62beebe5f92191a09a3a1%2Funnamed.jpg",
       "paywall":"yes"
+   },
+      {  
+      "podcast_id":"32",
+      "show":"Pod of Geauxld",
+      "episode":"Arkansas Win Post-Game ", 
+      "date":"11-12-2018",
+      "url":"http://feeds.soundcloud.com/stream/529304388-user-72507999-pod_arky.mp3", 
+      "description":"Brett and Mike discuss LSUs victory over Arkansas and look at the college football landscape. ",
+      "image":"https://cdn.zencast.fm/download/Podcast%2Fartworks%2F1245%2Flarge%2F8c244b370747c1930a4e0967254778ddbb69f6a409e62beebe5f92191a09a3a1%2Funnamed.jpg",
+      "paywall":"yes"
    }
+      {  
+      "podcast_id":"33",
+      "show":"Saints Happy Hour Podcast",
+      "episode":"Saints Massacre Bengals, Defense Shows Super Bowl Potential", 
+      "date":"11-12-2018",
+      "url":"http://feeds.soundcloud.com/stream/529304904-user-72507999-shh_bengalsrecap.mp3", 
+      "description":"The Saints are 8-1",
+      "image":"https://deow9bq0xqvbj.cloudfront.net/image-logo/381732/SHHP-1400by1400_2.jpg",
+      "paywall":"yes"
+   }, 
 ]
 
 
